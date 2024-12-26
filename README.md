@@ -21,4 +21,4 @@ Transparent Communication: No jargon, just clear, actionable insights
 
 Success Stories: Real businesses, real growth
 Interactive Demos: Experience the power of data visualization firsthand
-💬 Let's Unlock Your Data's Potential Together! Get in Touch: [mailto: akashvishnu6680@gmail.com/ Contact Info: 9789216680] Let's Grow Your Business with Data-Driven Insights! 🚀
+💬 Let's Unlock Your Data's Potential Together! Get in Touch: [mailto: akashvishnu6680@gmail.com/ Contact Info: 9789216680 ] Let's Grow Your Business with Data-Driven Insights! 🚀
