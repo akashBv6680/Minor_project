@@ -1,5 +1,6 @@
 streamlit
 openai
+python-dotenv
 python-dotenv # For local development to read .env file
 # Add any other libraries specific to your AI agent's functionality
 # For example:
