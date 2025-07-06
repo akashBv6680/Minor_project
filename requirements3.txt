@@ -1,2 +1,3 @@
 streamlit
-python-dotenv
+openai
+# Remove python-dotenv if it's there
