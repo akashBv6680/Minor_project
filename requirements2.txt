@@ -1,9 +1,0 @@
-streamlit
-openai
-python-dotenv # For local development to read .env file
-# Add any other libraries specific to your AI agent's functionality
-# For example:
-# requests # if your tools make HTTP requests to other APIs
-# numpy # if you do numerical computations
-# pandas # if you handle dataframes
-# google-generativeai # if you decide to use Google Gemini later
